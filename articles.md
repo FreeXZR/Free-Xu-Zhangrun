@@ -6,7 +6,7 @@ Since Xu Zhangrun’s articles went viral in China, the Chinese Communist Party 
 
 2018年4月，为了支持现已强迫失踪的北大劳工运动人士岳昕，国内网民将她的请愿信写在了以太坊区块链上，抵抗中共文字狱。这是历史性的创举，所以我们也效仿。不管中共决定如何迫害许教授，他的文章永远也删不掉了，因为已经全写在区块链上了。纵使千年流逝，亦将亘古不破！
 
-In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 at Peking University, Chinese Internet users wrote her petition letter on the Ethereum blockchain to circumvent the CCP’s censorship. It was a historic move, so we’re doing the same. No matter how the CCP decides to persecute Prof. Xu, his articles can never be deleted because we’ve written them on the blockchain. They will stay engraved, unfazed by the centuries and millenniums to come.
+In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 at Peking University, Chinese Internet users wrote her petition letter on the Ethereum blockchain to circumvent the CCP’s censorship. It was a historic move, so we’re doing the same. No matter how the CCP decides to persecute Prof. Xu, his articles can never be deleted because we’ve written them on the blockchain. They will stay engraved, unfazed by the centuries and millenniums to come!
 
 许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
 
