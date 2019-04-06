@@ -12,6 +12,10 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 
 Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
 
+如何查看写在以太坊区块链里的文章：打开链接，点击蓝色字“Click to see more”，点击灰色按钮“View Input As”，然后点击“UTF-8”。
+
+To view the article written on the Ethereum blockchain: Open the link, click the blue text “Click to see more”, then click the grey button “View Input As”, then click “UTF-8”.
+
 ## 看那人间的太阳<br>2019-03-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4801)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x75320017df8aceab423235b2022fd36258cb765538846f3eaed57e0b668c6a23)
