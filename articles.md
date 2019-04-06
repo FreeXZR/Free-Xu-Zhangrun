@@ -1,7 +1,7 @@
 # 许章润近期文章——以太坊区块链存档<br>Xu Zhangrun’s Recent Articles, Archived on the Ethereum Blockchain
 - 看那人间的太阳，2019-03-06
 	- 天则经济研究所 Unirule Institute of Economics
-	- 以太坊区块链存档 Ethereum blockchain archive
+	- [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x75320017df8aceab423235b2022fd36258cb765538846f3eaed57e0b668c6a23)
 - 《长日将尽》读后——那吊诡的主仆关系，2019-02-28
 	- 天则经济研究所 Unirule Institute of Economics
 	- 以太坊区块链存档 Ethereum blockchain archive
