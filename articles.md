@@ -33,7 +33,7 @@
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xdb8e614c6f8d43782789e2a97bf0a450132ee6ffbd0b4778d7ffc8587d7b0fdb)
 - [英文翻译 English translation by Geremie R. Barmé]
 - [以太坊区块链存档 Ethereum blockchain archive]
-- 部分 Part 1, 2, 3, 4, 5, 6, 7, 8
+- 部分 Part [1](https://etherscan.io/tx/0x35935b1611ab4e2ed545995ffbbf603546dbc6b354685dc6537f30cd73cb7f7b), [2](https://etherscan.io/tx/0xb7acc8a5268076505ff5420577985d89b9e70facdf2d2a881fd837f273d821ee), [3](https://etherscan.io/tx/0x3fd239ced9631403e94b9633b27d74412926e4c1357ba456594dbeb04a4dba0f), [4](https://etherscan.io/tx/0xcc4e310a9a44c72d1e4e869dbcf30bea6dbd271c0d5dc2814b98d1641c2348c2), [5](https://etherscan.io/tx/0xb1e2b2a8c7f968c69294bcb5ab2e0f5500d73b4e98ceb3b2b935f50b22516637), [6](https://etherscan.io/tx/0xb7f0c084bf86cf26e5dd0abec1cd6e44b61f21fff94142060b25e7cb3d65a12b), [7](https://etherscan.io/tx/0x245d0a046053009b4a85d029c770358fe3a8f5104bbe2a4c2fa320f272a731bb), [8](https://etherscan.io/tx/0x4ddda26d9f10765541dc485fa9006b742bd51478e6cf35d8ff481d14bf499f49)
 ## 保卫“改革开放” | 2018年1月9日，天则「新年期许」发言<br>2018-02-08
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4568)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x4b428c93b009867a8792acfb3ef64d6664da33cc62748c3cfb77c417133f378b)
