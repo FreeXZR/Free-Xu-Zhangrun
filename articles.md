@@ -8,6 +8,10 @@ Since Xu Zhangrun’s articles went viral in China, the Chinese Communist Party 
 
 In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 at Peking University, Chinese Internet users wrote her petition letter on the Ethereum blockchain to circumvent the CCP’s censorship. It was a historic move, so we’re doing the same. No matter how the CCP decides to persecute Prof. Xu, his articles can never be deleted because we’ve written them on the blockchain. They will stay engraved, unfazed by the centuries and millenniums to come.
 
+许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
+
+Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
+
 ## 看那人间的太阳<br>2019-03-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4801)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x75320017df8aceab423235b2022fd36258cb765538846f3eaed57e0b668c6a23)
@@ -55,7 +59,7 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 ## 我们当下的恐惧与期待<br>Imminent Fears, Immediate Hopes<br>2018-07-24
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4625)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xdb8e614c6f8d43782789e2a97bf0a450132ee6ffbd0b4778d7ffc8587d7b0fdb)
-- [英文翻译 English translation by Geremie R. Barmé]
+- [英文翻译 English translation by Geremie R. Barmé](http://chinaheritage.net/journal/imminent-fears-immediate-hopes-a-beijing-jeremiad/)
 - 以太坊区块链存档 Ethereum blockchain archive
   - 部分 Part [1](https://etherscan.io/tx/0x35935b1611ab4e2ed545995ffbbf603546dbc6b354685dc6537f30cd73cb7f7b), [2](https://etherscan.io/tx/0xb7acc8a5268076505ff5420577985d89b9e70facdf2d2a881fd837f273d821ee), [3](https://etherscan.io/tx/0x3fd239ced9631403e94b9633b27d74412926e4c1357ba456594dbeb04a4dba0f), [4](https://etherscan.io/tx/0xcc4e310a9a44c72d1e4e869dbcf30bea6dbd271c0d5dc2814b98d1641c2348c2), [5](https://etherscan.io/tx/0xb1e2b2a8c7f968c69294bcb5ab2e0f5500d73b4e98ceb3b2b935f50b22516637), [6](https://etherscan.io/tx/0xb7f0c084bf86cf26e5dd0abec1cd6e44b61f21fff94142060b25e7cb3d65a12b), [7](https://etherscan.io/tx/0x245d0a046053009b4a85d029c770358fe3a8f5104bbe2a4c2fa320f272a731bb), [8](https://etherscan.io/tx/0x4ddda26d9f10765541dc485fa9006b742bd51478e6cf35d8ff481d14bf499f49)
 
@@ -66,7 +70,3 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 ## 盛世危言——中国在临界点上<br>2017-02-02
 - [风传媒 The Storm Media](https://www.storm.mg/article/218533)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xb1aed3170923bb95e8be1f5deb86efae2aa5102f192f4e99ff933619c6f93fd0)
-
-许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
-
-Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
