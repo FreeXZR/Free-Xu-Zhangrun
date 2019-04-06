@@ -12,7 +12,7 @@
 ## 自由主义的五场战役<br>2018-12-21
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4754)
 - 以太坊区块链存档 Ethereum blockchain archive
-## 低头致意<br>天地无边 | 谨以此文纪念1978年开启的“改革开放”<br>2018-12-06
+## 低头致意，天地无边 | 谨以此文纪念1978年开启的“改革开放”<br>2018-12-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4748)
 ## 私塾先生<br>2018-11-26
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4743)
@@ -26,7 +26,7 @@
 - *Imminent Fears, Immediate Hopes*, translated with commentary and notes by Geremie R. Barmé
 - 以太坊区块链存档 Ethereum blockchain archive
 - 部分 Part 1, 2, 3, 4, 5, 6, 7, 8
-## 保卫“改革开放” | 2018年1月9日<br>天则「新年期许」发言<br>2018-02-08
+## 保卫“改革开放” | 2018年1月9日，天则「新年期许」发言<br>2018-02-08
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4568)
 - 以太坊区块链存档 Ethereum blockchain archive
 ## 盛世危言——中国在临界点上<br>2017-02-02
