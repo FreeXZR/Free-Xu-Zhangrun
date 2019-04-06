@@ -21,7 +21,7 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x8adef9abe6c2b9219f67c2e0b1795612f7df65851c275ba46471fafc2b3ceb4b)
 
 ## 中国不是一个红色帝国<br>China’s Red Empire — To Be or Not To Be?<br>2019-01-11
-- [中国战略分析 China Strategic Analysis](http://zhanlve.org/?p=6584）
+- [中国战略分析 China Strategic Analysis](http://zhanlve.org/?p=6584)
 - 端传媒 Initium Media
   - 部分 Parts [1](https://theinitium.com/article/20190110-opinion-xuzhangrun-china-red-empire-1/), [2](https://theinitium.com/article/20190111-opinion-xuzhangrun-china-red-empire-2/)
 - 以太坊区块链存档 Ethereum blockchain archive
@@ -32,21 +32,24 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 ## 自由主义的五场战役<br>2018-12-21
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4754)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x49aae4d2492a44f4a844327eba30424460b3486b7eddaf15c8c807ab3ef22ac8)
+
 ## 低头致意，天地无边 | 谨以此文纪念1978年开启的“改革开放”<br>Humble Recognition, Boundless Possibility – Commemorating the Inauguration of ‘Reform and Openness’ in 1978<br>2018-12-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4748)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xd20dc2358fe52a797460df13a43f67dc366724ba2b8b4fb8c17b13aee140ff2f)
-- [英文翻译（未完成） English translation by Geremie R. Barmé (unfinished)]
+- 英文翻译（未完成） English translation by Geremie R. Barmé (unfinished)
+  - 部分 Parts [1](http://chinaheritage.net/journal/humble-recognition-boundless-possibility-part-i/), [2](http://chinaheritage.net/journal/the-state-of-a-civilisation/)
+  - 待完成后写在区块链上 Will be written on the blockchain after completion
 
 ## 私塾先生<br>The Teacher<br>2018-11-26
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4743)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xd54ab2348740d4c42903e1332511cfc5930ced9cb50ca224f20b2579ad756770)
-- [英文翻译 English translation by Geremie R. Barmé]
+- [英文翻译 English translation by Geremie R. Barmé](http://chinaheritage.net/journal/to-summon-a-wandering-soul/)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x6ea86333f39709c48c3bb324d090c270b7768e78a8f1179d627753f60898c3c4)
 
 ## “哪有先生不说话？！”<br>And Teachers, Then? They Just Do Their Thing!<br>2018-11-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4717)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xf65c7ee7d3e5727af43ea82c067d2a8c755a5c7fa7a693b21841e577f3b793a3)
-- [英文翻译 English translation by Geremie R. Barmé]
+- [英文翻译 English translation by Geremie R. Barmé](http://chinaheritage.net/journal/and-teachers-then-they-just-do-their-thing/)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x5d98da2bbe081a8067f76df324808d109321ccd1b03398e3b5e6dcbae273f598)
 
 ## 我们当下的恐惧与期待<br>Imminent Fears, Immediate Hopes<br>2018-07-24
@@ -61,6 +64,7 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x4b428c93b009867a8792acfb3ef64d6664da33cc62748c3cfb77c417133f378b)
 
 ## 盛世危言——中国在临界点上<br>2017-02-02
+- [风传媒 The Storm Media](https://www.storm.mg/article/218533)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xb1aed3170923bb95e8be1f5deb86efae2aa5102f192f4e99ff933619c6f93fd0)
 
 许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
