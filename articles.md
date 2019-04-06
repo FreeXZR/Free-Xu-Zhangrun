@@ -57,3 +57,7 @@ In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 a
 
 ## 盛世危言——中国在临界点上<br>2017-02-02
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0xb1aed3170923bb95e8be1f5deb86efae2aa5102f192f4e99ff933619c6f93fd0)
+
+许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
+
+Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
