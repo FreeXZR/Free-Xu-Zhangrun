@@ -70,4 +70,8 @@ Thank you for your cooperation. We hope that your school can make the right deci
 
 Please do not reply to this message. Replies to this message are routed to an unmonitored mailbox.
 
+## 上传者注 Uploader's Notes
+
+这是2019年4月7日写给清华校方的电邮。This is an email written to Tsinghua University on April 7, 2019.
+
 收件人 Recipients: twinfo@tsinghua.edu.cn, gh@mail.tsinghua.edu.cn, jjw@tsinghua.edu.cn, baowb@mail.tsinghua.edu.cn, bwb@mail.tsinghua.edu.cn, bwbfhk@mail.tsinghua.edu.cn, bwbjtk@mail.tsinghua.edu.cn, bwbpcs@mail.tsinghua.edu.cn, bwbhkb@mail.tsinghua.edu.cn, bwbxwd@mail.tsinghua.edu.cn, ltxc@mail.tsinghua.edu.cn, yjsbsjb@tsinghua.edu.cn, yjsbswb@tsinghua.edu.cn, yjsygzb@tsinghua.edu.cn, xsbsjb@tsinghua.edu.cn, xscswb@tsinghua.edu.cn, xsb@tsinghua.edu.cn, scc@tsinghua.edu.cn, xinli@tsinghua.edu.cn, learning@tsinghua.edu.cn, thgc@tsinghua.edu.cn, yuzhw@tsinghua.edu.cn, pengfy@mail.tsinghua.edu.cn, zhangwanyun@mail.tsinghua.edu.cn, zhaozg@mail.tsinghua.edu.cn , news@tsinghua.edu.cn, tv@tsinghua.edu.cn, xqh@tsinghua.edu.cn, wlwh@tsinghua.edu.cn, zzbs@tsinghua.edu.cn, xfbgs@tsinghua.edu.cn, Law25@mail.tsinghua.edu.cn, IIP@mail.tsinghua.edu.cn, arbitration@mail.tsinghua.edu.cn, LLMLAW@mail.tsinghua.edu.cn, qiuy@mail.tsinghua.edu.cn, wangxq_ee@tsinghua.edu.cn, qkxue@tsinghua.edu.cn, binyang@tsinghua.edu.cn, lzheng@tsinghua.edu.cn, guo@tsinghua.edu.cn, chenhp@mail.tsinghua.edu.cn, gaoqc@mail.tsinghua.edu.cn, liuhan@tsinghua.edu.cn
