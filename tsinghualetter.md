@@ -1,4 +1,4 @@
-## 公开信：请立即终止对许章润教授的非法打压<br>Open Letter: End the Illegal Crackdown on Professor Xu Zhangrun Immediately
+# 公开信：请立即终止对许章润教授的非法打压<br>Open Letter: End the Illegal Crackdown on Professor Xu Zhangrun Immediately
 
 您好，
 
