@@ -1,4 +1,4 @@
-# 中国政府：请停止打压异议人士许章润教授<br>Chinese Government: Stop the Crackdown on Dissident Professor Xu Zhangrun 许章润
+# 中国政府：请停止打压异议人士许章润教授<br>Chinese Government: Stop the Crackdown on Dissident Professor Xu Zhangrun
 
 **[请点击这里签署请愿书。Click here to sign the petition.](http://bit.ly/2JY9R9Y)**
 
