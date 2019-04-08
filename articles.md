@@ -2,17 +2,19 @@
 
 自从许章润的文章在全国走红以来，中共当局针对他实行网络封锁，试图让他在网上人间蒸发。在微信、微博等国内主要社交媒体上，只要信息含有“许章润”三字或他任何一篇文章标题，就全发不出去。可幸，国内网民使用同音字或截屏图片来规避中共的文字狱，也用VPN翻墙，不受限制地在脸书和推特上讨论许教授。当前，GitHub是少数几个在国内能上的主要国外网站之一，而以太坊加密货币区块链在全世界哪里都封不住的。请各位网友在国内外社交媒体上广泛转发此文集，帮帮许教授吧！
 
-Since Xu Zhangrun’s articles went viral in China, the Chinese Communist Party (CCP) has completely censored them in an attempt to disappear him online. Any message containing the word “Xu Zhangrun” or any of his articles’ titles cannot be posted on Chinese social media sites such as Wechat or Weibo. Fortunately, Chinese Internet users have been using homophones and screenshots of texts to circumvent the CCP’s textual censorship. They also use VPN services access blocked websites such as Twitter and Facebook to discuss Prof. Xu uncensored. At the moment, GitHub is one of the few major foreign sites still accessible in China, and the Ethereum cryptocurrency blockchain cannot be censored anywhere in the world. Please help Prof. Xu by sharing this anthology on social media, Chinese or English ones!
-
 2018年4月，为了支持现已强迫失踪的北大劳工运动人士岳昕，国内网民将她的请愿信写在了以太坊区块链上，抵抗中共文字狱。这是历史性的创举，所以我们也效仿。不管中共决定如何迫害许教授，他的文章永远也删不掉了，因为已经全写在区块链上了。纵使千年流逝，亦将亘古不破！
-
-In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 at Peking University, Chinese Internet users wrote her petition letter on the Ethereum blockchain to circumvent the CCP’s censorship. It was a historic move, so we’re doing the same. No matter how the CCP decides to persecute Prof. Xu, his articles can never be deleted because we’ve written them on the blockchain. They will stay engraved, unfazed by the centuries and millenniums to come!
 
 许教授的数篇文章还没有英文翻译，这里我们向各位专家学者倡议，尽快让英文互联网也有幸拜读许教授的佳作！
 
-Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
-
 如何查看写在以太坊区块链里的文章：打开链接，点击蓝色字“Click to see more”，点击灰色按钮“View Input As”，然后点击“UTF-8”。
+
+___
+
+Since Xu Zhangrun’s articles went viral in China, the Chinese Communist Party (CCP) has completely censored them in an attempt to disappear him online. Any message containing the word “Xu Zhangrun” or any of his articles’ titles cannot be posted on Chinese social media sites such as Wechat or Weibo. Fortunately, Chinese Internet users have been using homophones and screenshots of texts to circumvent the CCP’s textual censorship. They also use VPN services access blocked websites such as Twitter and Facebook to discuss Prof. Xu uncensored. At the moment, GitHub is one of the few major foreign sites still accessible in China, and the Ethereum cryptocurrency blockchain cannot be censored anywhere in the world. Please help Prof. Xu by sharing this anthology on social media, Chinese or English ones!
+
+In April 2018, in support of the now-disappeared labor activist Yue Xin 岳昕 at Peking University, Chinese Internet users wrote her petition letter on the Ethereum blockchain to circumvent the CCP’s censorship. It was a historic move, so we’re doing the same. No matter how the CCP decides to persecute Prof. Xu, his articles can never be deleted because we’ve written them on the blockchain. They will stay engraved, unfazed by the centuries and millenniums to come!
+
+Many of Prof. Xu’s articles aren’t translated into English yet. We hereby call for experts and scholars to bring his works of quality to the English Internet!
 
 To view the article written on the Ethereum blockchain: Open the link, click the blue text “Click to see more”, then click the grey button “View Input As”, then click “UTF-8”.
 
