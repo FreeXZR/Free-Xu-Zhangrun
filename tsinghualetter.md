@@ -34,7 +34,7 @@
 感谢您的合作。我方希望贵校能做出正确的决定。
 
 请勿回复此邮件。对此邮件的回复将转发到无人查阅的邮箱。
-
+_________________
 Hello,
 
 We’ve recently heard that Prof. Xu Zhangrun was illegally suspended and placed under investigation by your university as a result of his outspoken political criticism. Your action has damaged Tsinghua’s as well as China’s academic reputation worldwide. It has constituted a severe violation of freedom of expression, a basic human right:
@@ -70,7 +70,7 @@ Thank you for your cooperation. We hope that your school can make the right deci
 
 Please do not reply to this message. Replies to this message are routed to an unmonitored mailbox.
 
-## 上传者注 Uploader's Notes
+## 上传者注<br>Uploader's Notes
 
 这是2019年4月7日写给清华校方的电邮。This is an email written to Tsinghua University on April 7, 2019.
 
