@@ -17,13 +17,13 @@
 
 一、我方已发起两封请愿书，一封中文，一封中英双语，当前分别有803人和79人签名。请您也签名并在网上分享。
 
-- 第一封请愿书链接（中文，无需VPN）。
-- 第二封请愿书链接（英文，需VPN）。
-- 第二封请愿书链接（GitHub上的中文翻译，无需VPN）。
+- [第一封请愿书链接（中文，无需VPN）。](https://xu291.github.io/)
+- [第二封请愿书链接（英文，需VPN）。](http://bit.ly/2JY9R9Y)
+- [第二封请愿书链接（GitHub上的中文翻译，无需VPN）。](https://github.com/FreeXZR/Free-Xu-Zhangrun/blob/master/README.md)
 
 二、认识到您可能强迫许教授删除他的文章，我方已将其写在以太坊加密货币区块链上。因为区块链技术可供数据存储不受变更，您现已永远无法删除他的文章。且因以太坊区块链在全球各地都无法封锁，中国网民仍可以不受文字狱限制地阅读、分享他的文章。
 
-- 许教授文集链接，含英文翻译。
+- [许教授文集链接，含英文翻译。](https://github.com/FreeXZR/Free-Xu-Zhangrun/blob/master/articles.md)
 
 三、我方已联系有关人员和机构以提高意识并倡议支持许教授的相关行动：
 
@@ -52,13 +52,13 @@ Recognizing that your school may feel reluctant to protect the basic academic fr
 
 First, we’ve started two petitions demanding academic freedom for Prof. Xu, one in Chinese, another one bilingual. At the moment, they’ve respectively gathered 803 and 79 signatures. Please sign them and share them online as well.
 
-- Link to petition 1 (Chinese, no VPN required).
-- Link to petition 2 (English, VPN required).
-- Link to petition 2 (Chinese translation on GitHub, no VPN required).
+- [Link to petition 1 (Chinese, no VPN required).](https://xu291.github.io/)
+- [Link to petition 2 (English, VPN required).](http://bit.ly/2JY9R9Y)
+- [Link to petition 2 (Chinese translation on GitHub, no VPN required).](https://github.com/FreeXZR/Free-Xu-Zhangrun/blob/master/README.md)
 
 Second, recognizing that you may coerce Prof. Xu to delete his articles, we’ve written them on the Ethereum cryptocurrency blockchain. Blockchain technology allows data to be immutably stores, so it’s now forever impossible for you to delete his articles. Because it’s also impossible to block access to the Ethereum blockchain anywhere in the world, people in China can still read and share his articles without censorship.
 
-- Link to Prof. Xu’s anthology, with English translations included.
+- [Link to Prof. Xu’s anthology, with English translations included.](https://github.com/FreeXZR/Free-Xu-Zhangrun/blob/master/articles.md)
 
 Third, we’ve contacted relevant individuals and institutions to raise awareness and call for possible further action supporting Prof. Xu:
 
