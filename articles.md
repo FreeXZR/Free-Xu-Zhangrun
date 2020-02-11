@@ -18,6 +18,9 @@ Many of Prof. Xu’s articles aren’t translated into English yet. We hereby ca
 
 To view the article written on the Ethereum blockchain: Open the link, click the blue text “Click to see more”, then click the grey button “View Input As”, then click “UTF-8”.
 
+## 愤怒的人民已不再恐惧<br>2020-02-02
+- [GitHub存档](https://github.com/AngryFear/AngryPeopleNoFear/blob/master/README.md)
+
 ## 看那人间的太阳<br>2019-03-06
 - [天则经济研究所 Unirule Institute of Economics](http://unirule.cloud/index.php?c=article&id=4801)
 - [以太坊区块链存档 Ethereum blockchain archive](https://etherscan.io/tx/0x75320017df8aceab423235b2022fd36258cb765538846f3eaed57e0b668c6a23)
